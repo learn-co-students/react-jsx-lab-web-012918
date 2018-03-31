@@ -9,6 +9,7 @@ ReactDOM.render(
     <div>
       <RegistrationForm />
       <Webpage />
+
     </div>
   ),
   document.getElementById('global')
